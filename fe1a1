@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Apresentação Growdev</title>
+</head>
+<body>
+	<h1>Atividade 01 - Front End 1 - Growdev</h1>
+	<img src="https://i.ibb.co/tsNP2Nf/1664562232663.jpg" alt="Minha foto">
+	<P><strong>Nome:</strong> Nickolas Mensatto Moura</P>
+	<p><Strong>Idade:</Strong> 28 anos</p>
+	<p><Strong>E-mail</Strong> nickmoura26@gmail.com</p>
+	<p><Strong>Cidade e Estado:</Strong> Sorocaba/SP</p>
+	<p><Strong>Programa de formação:</Strong> Fullstack Developer: Turma 12, edição 13</p>
+	<p><Strong>O que me define:</Strong> curiosidade</p>
+	<p><Strong>Conhecimentos em programação:</Strong> HTML e Python</p>
+	<p><Strong>Onde quero chegar:</Strong> obter conhecimento técnico na prática para ser um Scrum Master de sucesso e, mais tarde, um programador</p>
+</body>
+</html>
