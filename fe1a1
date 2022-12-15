@@ -7,15 +7,22 @@
 	<title>Apresentação Growdev</title>
 </head>
 <body>
+	<header id="inicio">
+	<nav>
+	<a href="#Sobre mim">Sobre mim</a>
+	<a href="#Minha formação">Minha formação</a>
+	<a href="#Meus contatos">Contato</a>
+	</nav></header>
 	<h1>Atividade 01 - Front End 1 - Growdev</h1>
-	<img src="https://i.ibb.co/tsNP2Nf/1664562232663.jpg" alt="Minha foto">
-	<P><strong>Nome:</strong> Nickolas Mensatto Moura</P>
-	<p><Strong>Idade:</Strong> 28 anos</p>
-	<p><Strong>E-mail</Strong> nickmoura26@gmail.com</p>
-	<p><Strong>Cidade e Estado:</Strong> Sorocaba/SP</p>
-	<p><Strong>Programa de formação:</Strong> Fullstack Developer: Turma 12, edição 13</p>
-	<p><Strong>O que me define:</Strong> curiosidade</p>
-	<p><Strong>Conhecimentos em programação:</Strong> HTML e Python</p>
-	<p><Strong>Onde quero chegar:</Strong> obter conhecimento técnico na prática para ser um Scrum Master de sucesso e, mais tarde, um programador</p>
+	<main><img src="https://i.ibb.co/tsNP2Nf/1664562232663.jpg" alt="Minha foto">
+	<section id="Sobre mim"><h2>Sobre mim</h2><p>Meu nome é <strong>Nickolas Mensatto Moura.</strong> Tenho <strong>28 anos</strong> e moro em 
+	<strong>Sorocaba/SP</strong>. Sou <strong>muito curioso, baladeiro, agitado, fã de post-punk e futebol</strong>.</section></p>
+	<p>Minha frase favorita é:</p>
+		<p><q>Dizem que quando morremos a vida passa como um filme na cabeça. Faça com que valha a pena.</q> - <i>Jô Soares</i></p>
+	<section id="Minha formação"><h2>Minha formação</h2><p>Atualmente, estudo na <strong>na 13ª Edição do programa Starter Fullstack Developer</strong> da Growdev.
+	Tenho conhecimento em <strong>HTML e Python</strong>. Estudo programação porque <strong>quero ser um profissional de tecnologia completo.</strong></section></p>
+	<section id="Meus contatos"><h2>Contato</h2><p>Caso queira trcar uma ideia, meu e-mail é <a href="malito:nickmoura26@gmail.com">
+	<strong>nickmoura26@gmail.com</strong></a>. Meu WhatsApp é <a href="http://wa.me/5515998000286">(15) 99800-0286</a>.</section></p>
+</main>
 </body>
 </html>
